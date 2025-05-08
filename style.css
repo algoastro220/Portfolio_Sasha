@@ -125,3 +125,8 @@ section div{
 div p{
     width: 300px;
 }
+
+.port{
+    display: flex;
+    justify-content: space-around;
+}
